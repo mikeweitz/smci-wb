@@ -1,0 +1,36 @@
+{
+  "name": "triplebyte",
+  "version": "1.0.0",
+  "description": "Quick scaffold for prototyping a react app in NextJS w Styletron",
+  "main": "init.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "export": "next export",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeweitz/quick-scaffold.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikeweitz/quick-scaffold/issues"
+  },
+  "homepage": "https://github.com/mikeweitz/quick-scaffold#readme",
+  "devDependencies": {
+    "request": "^2.88.0",
+    "serve": "^11.3.0"
+  },
+  "dependencies": {
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "^9.0.7",
+    "react": "^16.10.1",
+    "react-dom": "^16.10.1",
+    "styletron-engine-atomic": "^1.4.1",
+    "styletron-react": "^5.2.1"
+  }
+}

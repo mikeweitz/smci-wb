@@ -1,0 +1,501 @@
+{
+  "nodes": [
+    {
+      "node": {
+        "field_wb_site_selection": "",
+        "nid": "92859",
+        "type": "tv_series",
+        "field_title_thumbnail": {
+          "src": "https://assets.www.warnerbros.com/drupal-root/public/tv/media/browser/batman_complete_series_key_art.jpg",
+          "alt": "Batman Complete Series - Key Art"
+        },
+        "field_promo_image": "",
+        "field_display_title": "Batman: The Complete Series",
+        "field_custom_marketing_message": "Own It Today",
+        "body": "The long-awaited 1960s TV series featuring Adam West (as Batman) and Burt Ward (as The Boy Wonder Robin) has finally arrived in Digital HD with all 120 episodes! With perfectly pitched scripts and the iconic high-camp cleverness of its \u201cPow!\u201d \u201cThwack!\u201d \u201cZap!\u201d graphics, Batman leaped from the comic books to our living rooms as one of TV\u2019s most beloved hits.\u200b\r\n",
+        "field_us_air_date": "Series Premiere: January 12, 1966",
+        "url": "tv/batman-complete-series",
+        "home_ent_purchase_links": "",
+        "it_purchase_links": "",
+        "tv_game_purchase_links": "[{\"item_id\":\"109913\",\"purchase_link\":\"https:\\/\\/geo.itunes.apple.com\\/us\\/tv-season\\/batman-the-complete-series\\/id935477397?mt=4\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/apple-tv-logo.jpg\",\"alt\":\"Apple TV\",\"title\":\"Apple TV\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"109914\",\"purchase_link\":\"https:\\/\\/play.google.com\\/store\\/tv\\/show?id=7rjvmw40gVs\\u0026cdid=tvseason-yIs9-nVUxL3IosnvXjFBqQ\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/GooglePlay_500x200.png\",\"alt\":\"Google Play\",\"title\":\"Google Play\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"109915\",\"purchase_link\":\"https:\\/\\/www.amazon.com\\/Hi-Diddle-Riddle\\/dp\\/B00OLZVMY8\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/PrimeVideo_500x200.png\",\"alt\":\"primevideo.com\",\"title\":\"primevideo.com\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"109916\",\"purchase_link\":\"https:\\/\\/www.vudu.com\\/content\\/movies\\/details\\/Batman-The-Complete-Series-Bundle-\\/622237\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/Vudu_500x200.png\",\"alt\":\"vudu.com\",\"title\":\"vudu.com\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"109917\",\"purchase_link\":\"https:\\/\\/www.microsoft.com\\/en-us\\/p\\/batman-the-complete-series\\/8d6kgwzsjfvq\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/Microsoft_500x200.png\",\"alt\":\"Microsoft Buylink\",\"title\":\"Microsoft Buylink\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"109918\",\"purchase_link\":\"https:\\/\\/www.walmart.com\\/ip\\/Batman-The-Complete-Television-Series-Blu-ray\\/767620502\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/walmart_500x200.png\",\"alt\":\"walmart.com\",\"title\":\"walmart.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"109919\",\"purchase_link\":\"https:\\/\\/www.bestbuy.com\\/site\\/batman-the-complete-television-series-13-discs-blu-ray\\/7161275.p\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/best_buy_500x200.png\",\"alt\":\"bestbuy.com\",\"title\":\"bestbuy.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"109920\",\"purchase_link\":\"https:\\/\\/www.target.com\\/p\\/batman-the-complete-television-series-blu-ray\\/-\\/A-16983273\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/target.jpg\",\"alt\":\"Target\",\"title\":\"Target\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"109922\",\"purchase_link\":\"https:\\/\\/www.amazon.com\\/Batman-Complete-Adam-West\\/dp\\/B00Q6Z16F6\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/amazon_500x200.png\",\"alt\":\"amazon.com\",\"title\":\"amazon.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}}]",
+        "banner_promo_image": "",
+        "brand_banner_image": "",
+        "collection_promo_image": "",
+        "collection_banner_image": ""
+      }
+    },
+    {
+      "node": {
+        "field_wb_site_selection": "home_entertainment",
+        "nid": "61086",
+        "type": "movies",
+        "field_title_thumbnail": {
+          "src": "https://assets.www.warnerbros.com/drupal-root/public/movies/media/browser/batman_1989_key_art.jpg",
+          "alt": "Batman 1989 - Key Art"
+        },
+        "field_promo_image": "",
+        "field_display_title": "Batman",
+        "field_custom_marketing_message": "Own it Today",
+        "body": "Tim Burton directs; Michael Keaton stars as Batman; and Jack Nicholson stars as his arch foe, The Joker. As the Dark Knight, defender of law and order in Gotham City, Batman treads the shadow zone between right and wrong, fighting with only his skill in martial arts and his keenly honed mind to defend the innocent and to purge the memory of his parents' brutal murder--always keeping his true identity as millionaire philanthropist Bruce Wayne a closely guarded secret. Based upon Batman...",
+        "field_release_date": "Original Theatrical Date: June 23, 1989",
+        "url": "batman",
+        "field_release_date_1": "June 23, 1989",
+        "home_ent_purchase_links": "[{\"item_id\":\"37026\",\"purchase_link\":\"http:\\/\\/www.wbshop.com\\/product\\/code\\/1000395964.do?adid=wbpbuybatman89\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/WB_Shop_500x200.png\",\"alt\":\"wbshop.com\",\"title\":\"wbshop.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"72341\",\"purchase_link\":\"http:\\/\\/www.amazon.com\\/Batman-Michael-Keaton\\/dp\\/B002XED5TY\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/PrimeVideo_500x200.png\",\"alt\":\"primevideo.com\",\"title\":\"primevideo.com\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"72346\",\"purchase_link\":\"https:\\/\\/geo.itunes.apple.com\\/us\\/movie\\/batman\\/id576794479?mt=6\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/apple-tv-logo.jpg\",\"alt\":\"Apple TV\",\"title\":\"Apple TV\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"72351\",\"purchase_link\":\"https:\\/\\/www.amazon.com\\/Batman-UHD-Blu-ray-Michael-Keaton\\/dp\\/B07Q9VWJ2K\\/ref=tmm_frk_swatch_0?_encoding=UTF8\\u0026qid=\\u0026sr=\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/amazon_500x200.png\",\"alt\":\"amazon.com\",\"title\":\"amazon.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"97896\",\"purchase_link\":\"https:\\/\\/play.google.com\\/store\\/movies\\/details\\/Batman_1989?id=KaLiyImeki8\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/GooglePlay_500x200.png\",\"alt\":\"Google Play\",\"title\":\"Google Play\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"97901\",\"purchase_link\":\"https:\\/\\/www.vudu.com\\/content\\/movies\\/details\\/Batman\\/9004\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/Vudu_500x200.png\",\"alt\":\"vudu.com\",\"title\":\"vudu.com\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"107141\",\"purchase_link\":\"https:\\/\\/www.walmart.com\\/ip\\/Batman-4K-Ultra-HD-Blu-ray\\/258163071\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/walmart_500x200.png\",\"alt\":\"walmart.com\",\"title\":\"walmart.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"107146\",\"purchase_link\":\"https:\\/\\/www.bestbuy.com\\/site\\/batman-includes-digital-copy-4k-ultra-hd-blu-ray-blu-ray-1989\\/6344912.p?skuId=6344912\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/best_buy_500x200.png\",\"alt\":\"bestbuy.com\",\"title\":\"bestbuy.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"108361\",\"purchase_link\":\"https:\\/\\/www.target.com\\/p\\/batman-4k-uhd\\/-\\/A-54577240?ref=tgt_adv_XS000000\\u0026AFID=google_pla_df\\u0026fndsrc=tgtao\\u0026CPNG=PLA_Entertainment%2BShopping_Brand\\u0026adgroup=SC_Entertainment\\u0026LID=700000001170770pgs\\u0026network=g\\u0026device=c\\u0026location=9031195\\u0026ds_rl=1246978\\u0026gclid=CjwKEAjwlujnBRDl2teOp_veulQSJAC5bHgtJrSwI_PB3_pb4NhuK1Ji0_Yq7D0cXKqp0dTKvd85KhoC2-zw_wcB\\u0026gclsrc=aw.ds\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/target.jpg\",\"alt\":\"Target\",\"title\":\"Target\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"111693\",\"purchase_link\":\"https:\\/\\/moviesanywhere.com\\/movie\\/batman\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/MoviesAnywhere_500x200.png\",\"alt\":\"moviesanywhere.com\",\"title\":\"moviesanywhere.com\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"111694\",\"purchase_link\":\"https:\\/\\/www.microsoft.com\\/en-us\\/p\\/batman-1989\\/8d6kgwzl64g6\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/Microsoft_500x200.png\",\"alt\":\"Microsoft Buylink\",\"title\":\"Microsoft Buylink\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"111695\",\"purchase_link\":\"https:\\/\\/www.fandangonow.com\\/details\\/movie\\/batman-1989\\/1MVe0c566ee1eb02a96989f29feb955ad1b\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/FandangoNow_500x200.png\",\"alt\":\"fandangonow.com\",\"title\":\"fandangonow.com\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}}]",
+        "it_purchase_links": "",
+        "tv_game_purchase_links": "",
+        "banner_promo_image": "",
+        "brand_banner_image": "",
+        "collection_promo_image": "",
+        "collection_banner_image": ""
+      }
+    },
+    {
+      "node": {
+        "field_wb_site_selection": "home_entertainment",
+        "nid": "60916",
+        "type": "movies",
+        "field_title_thumbnail": {
+          "src": "https://assets.www.warnerbros.com/drupal-root/public/movies/media/browser/batman_2000x3000.jpg",
+          "alt": "Batman - 2000 x 3000"
+        },
+        "field_promo_image": "",
+        "field_display_title": "Batman Returns",
+        "field_custom_marketing_message": "Own it Today",
+        "body": "In the second of the blockbuster Batman films, the physically deformed criminal genius The Penguin threatens Gotham City--and, helpless, the entire city can only pray that Batman Returns. Only Batman (MichaelKeaton) can defend the city from total chaos as The Penguin (DannyDeVito) lays twisted waste to a great metropolis. Meanwhile, the Dark Knight may have met his equal in the lethally lithe Catwoman (MichellePfeiffer)--only he doesn't know if she is feline friend ... or foe.\r\n\r\n\u00a0\r\n",
+        "field_release_date": "Original Theatrical Date: June 19, 1992",
+        "url": "batman-returns",
+        "field_release_date_1": "June 19, 1992",
+        "home_ent_purchase_links": "[{\"item_id\":\"36856\",\"purchase_link\":\"http:\\/\\/www.wbshop.com\\/product\\/code\\/1000395967.do?adid=wbpbuybatmanreturns\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/WB_Shop_500x200.png\",\"alt\":\"wbshop.com\",\"title\":\"wbshop.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"39351\",\"purchase_link\":\"https:\\/\\/www.amazon.com\\/Batman-Returns-Ultra-Blu-ray-Digital\\/dp\\/B07QBVFKWX\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/amazon_500x200.png\",\"alt\":\"amazon.com\",\"title\":\"amazon.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"65991\",\"purchase_link\":\"https:\\/\\/www.amazon.com\\/Batman-Returns-Michael-Keaton\\/dp\\/B002XXLKL0\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/PrimeVideo_500x200.png\",\"alt\":\"primevideo.com\",\"title\":\"primevideo.com\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"65996\",\"purchase_link\":\"https:\\/\\/geo.itunes.apple.com\\/us\\/movie\\/batman-returns\\/id572587960?mt=6\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/apple-tv-logo.jpg\",\"alt\":\"Apple TV\",\"title\":\"Apple TV\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"107166\",\"purchase_link\":\"https:\\/\\/www.walmart.com\\/ip\\/Batman-Returns-4K-Ultra-HD-Blu-ray\\/276790747\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/walmart_500x200.png\",\"alt\":\"walmart.com\",\"title\":\"walmart.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"107171\",\"purchase_link\":\"https:\\/\\/www.bestbuy.com\\/site\\/batman-returns-includes-digital-copy-4k-ultra-hd-blu-ray-blu-ray-1992\\/6344904.p?skuId=6344904\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/best_buy_500x200.png\",\"alt\":\"bestbuy.com\",\"title\":\"bestbuy.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"108371\",\"purchase_link\":\"https:\\/\\/www.target.com\\/p\\/batman-returns-4k-uhd\\/-\\/A-54577281\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/target.jpg\",\"alt\":\"Target\",\"title\":\"Target\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"108391\",\"purchase_link\":\"https:\\/\\/www.vudu.com\\/content\\/movies\\/details\\/Batman-Returns\\/9007\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/Vudu_500x200.png\",\"alt\":\"vudu.com\",\"title\":\"vudu.com\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"108396\",\"purchase_link\":\"https:\\/\\/play.google.com\\/store\\/movies\\/details?id=01jRoCAeYbY\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/GooglePlay_500x200.png\",\"alt\":\"Google Play\",\"title\":\"Google Play\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"111473\",\"purchase_link\":\"https:\\/\\/moviesanywhere.com\\/movie\\/batman-returns\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/MoviesAnywhere_500x200.png\",\"alt\":\"moviesanywhere.com\",\"title\":\"moviesanywhere.com\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"111474\",\"purchase_link\":\"https:\\/\\/www.microsoft.com\\/en-us\\/p\\/batman-returns\\/8d6kgwzl5t2m\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/Microsoft_500x200.png\",\"alt\":\"Microsoft Buylink\",\"title\":\"Microsoft Buylink\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"111475\",\"purchase_link\":\"https:\\/\\/www.fandangonow.com\\/details\\/movie\\/batman-returns-1992\\/1MV96506c6c1686afd770a936fc1d15e108\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/FandangoNow_500x200.png\",\"alt\":\"fandangonow.com\",\"title\":\"fandangonow.com\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}}]",
+        "it_purchase_links": "",
+        "tv_game_purchase_links": "",
+        "banner_promo_image": "",
+        "brand_banner_image": "",
+        "collection_promo_image": "",
+        "collection_banner_image": ""
+      }
+    },
+    {
+      "node": {
+        "field_wb_site_selection": "home_entertainment",
+        "nid": "92511",
+        "type": "movies",
+        "field_title_thumbnail": {
+          "src": "https://assets.www.warnerbros.com/drupal-root/public/movies/media/browser/BATMAN_HUSH_2000x3000.jpeg",
+          "alt": "Batman Hush"
+        },
+        "field_promo_image": "",
+        "field_display_title": "Batman Hush",
+        "field_custom_marketing_message": "Own it Today",
+        "body": "When threads from Batman\u2019s past begin to unravel, the race is on for the Dark Knight to crack Hush\u2019s deadly game. Based on the tour de force graphic novel, Batman: Hush ranks as one of the greatest Batman stories ever told. A virtual who\u2019s who of DC \u2013 including Superman, Nightwing, Catwoman, Poison Ivy, Joker and more \u2013 is woven into this twisting tale of murder, mystery and romance that will create strange alliances and reveal shattering secrets when Hush\u2019s silence is finally broken.\r\n",
+        "url": "movies/batman-hush",
+        "home_ent_purchase_links": "[{\"item_id\":\"108666\",\"purchase_link\":\"https:\\/\\/geo.itunes.apple.com\\/us\\/movie\\/batman-hush\\/id1462976676?mt=6\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/apple-tv-logo.jpg\",\"alt\":\"Apple TV\",\"title\":\"Apple TV\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"108671\",\"purchase_link\":\"https:\\/\\/play.google.com\\/store\\/movies\\/details\\/Batman_Hush?id=pwoSrKtZKqY\\u0026hl=en_US\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/GooglePlay_500x200.png\",\"alt\":\"Google Play\",\"title\":\"Google Play\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"108676\",\"purchase_link\":\"https:\\/\\/www.amazon.com\\/Batman-Hush-Jason-OMara\\/dp\\/B07SRYRWCM\\/\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/PrimeVideo_500x200.png\",\"alt\":\"primevideo.com\",\"title\":\"primevideo.com\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"108681\",\"purchase_link\":\"https:\\/\\/www.amazon.com\\/Batman-Hush-4K-Ultra-Blu-ray\\/dp\\/B07KZ365LR\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/amazon_500x200.png\",\"alt\":\"amazon.com\",\"title\":\"amazon.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"108686\",\"purchase_link\":\"https:\\/\\/www.walmart.com\\/ip\\/Batman-Hush-4K-Ultra-HD-Blu-ray\\/670006925\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/walmart_500x200.png\",\"alt\":\"walmart.com\",\"title\":\"walmart.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"108691\",\"purchase_link\":\"https:\\/\\/www.bestbuy.com\\/site\\/batman-hush-includes-digital-copy-4k-ultra-hd-blu-ray-blu-ray-2019\\/6355328.p?skuId=6355328\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/best_buy_500x200.png\",\"alt\":\"bestbuy.com\",\"title\":\"bestbuy.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"108696\",\"purchase_link\":\"https:\\/\\/www.target.com\\/p\\/batman-hush-4k-uhd\\/-\\/A-76611678\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/target.jpg\",\"alt\":\"Target\",\"title\":\"Target\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"111808\",\"purchase_link\":\"https:\\/\\/www.vudu.com\\/content\\/movies\\/details\\/Batman-Hush\\/1127022\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/Vudu_500x200.png\",\"alt\":\"vudu.com\",\"title\":\"vudu.com\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"111809\",\"purchase_link\":\"https:\\/\\/moviesanywhere.com\\/movie\\/batman-hush-2019\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/MoviesAnywhere_500x200.png\",\"alt\":\"moviesanywhere.com\",\"title\":\"moviesanywhere.com\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"111810\",\"purchase_link\":\"https:\\/\\/www.microsoft.com\\/en-us\\/p\\/batman-hush\\/8d6kgwxmzdfb\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/Microsoft_500x200.png\",\"alt\":\"Microsoft Buylink\",\"title\":\"Microsoft Buylink\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"111811\",\"purchase_link\":\"https:\\/\\/www.fandangonow.com\\/details\\/movie\\/dcu-batman-hush-2019\\/MMVF403D14E23B4089DF725F126F405C3996\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/FandangoNow_500x200.png\",\"alt\":\"fandangonow.com\",\"title\":\"fandangonow.com\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}}]",
+        "it_purchase_links": "",
+        "tv_game_purchase_links": "",
+        "banner_promo_image": "",
+        "brand_banner_image": "",
+        "collection_promo_image": "",
+        "collection_banner_image": ""
+      }
+    },
+    {
+      "node": {
+        "field_wb_site_selection": "home_entertainment",
+        "nid": "87936",
+        "type": "movies",
+        "field_title_thumbnail": {
+          "src": "https://assets.www.warnerbros.com/drupal-root/public/movies/media/browser/batman_ninja_keyart_1400x2100.jpg",
+          "alt": "Batman Ninja"
+        },
+        "field_promo_image": "",
+        "field_display_title": "Batman Ninja",
+        "field_custom_marketing_message": "Own it Today",
+        "body": "Japan\u2019s finest artists reimagine Batman and his adversaries in this ground-breaking anime feature. In an all-new story, The Dark Knight travels to a land ruled by sword-wielding samurai and ninja assassins. Beginning in Gotham City, Gorilla Grodd\u2019s time displacement machine malfunctions sending a crazed cast of tyrannical villains back in time to terrorize medieval Japan. The most depraved is Lord Joker, who seeks total domination of the feudal states and the final elimination of the legendary...",
+        "field_release_date": "Original Theatrical Date: April 24, 2018",
+        "url": "batman-ninja",
+        "field_release_date_1": "April 24, 2018",
+        "home_ent_purchase_links": "[{\"item_id\":\"100586\",\"purchase_link\":\"https:\\/\\/www.amazon.com\\/Batman-Ninja-Roger-Craig-Smith\\/dp\\/B07B1WZMMY\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/PrimeVideo_500x200.png\",\"alt\":\"primevideo.com\",\"title\":\"primevideo.com\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"100591\",\"purchase_link\":\"https:\\/\\/play.google.com\\/store\\/movies\\/details\\/Batman_Ninja?id=LqT4pW0BB7Y\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/GooglePlay_500x200.png\",\"alt\":\"Google Play\",\"title\":\"Google Play\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"100596\",\"purchase_link\":\"https:\\/\\/itunes.apple.com\\/us\\/movie\\/batman-ninja\\/id1351527622?mt=6\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/apple-tv-logo.jpg\",\"alt\":\"Apple TV\",\"title\":\"Apple TV\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"100601\",\"purchase_link\":\"https:\\/\\/www.amazon.com\\/Batman-Ninja-Blu-ray-Koichi-Yamadera\\/dp\\/B0788WSVJ3\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/amazon_500x200.png\",\"alt\":\"amazon.com\",\"title\":\"amazon.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"100606\",\"purchase_link\":\"https:\\/\\/www.wbshop.com\\/products\\/batman-ninja-bd\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/WB_Shop_500x200.png\",\"alt\":\"wbshop.com\",\"title\":\"wbshop.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"102381\",\"purchase_link\":\"https:\\/\\/www.vudu.com\\/content\\/movies\\/details\\/Batman-Ninja\\/937412\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/Vudu_500x200.png\",\"alt\":\"vudu.com\",\"title\":\"vudu.com\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"111766\",\"purchase_link\":\"https:\\/\\/moviesanywhere.com\\/movie\\/batman-ninja\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/MoviesAnywhere_500x200.png\",\"alt\":\"moviesanywhere.com\",\"title\":\"moviesanywhere.com\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"111767\",\"purchase_link\":\"https:\\/\\/www.microsoft.com\\/en-us\\/p\\/batman-ninja\\/8d6kgwxp798h\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/Microsoft_500x200.png\",\"alt\":\"Microsoft Buylink\",\"title\":\"Microsoft Buylink\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"111768\",\"purchase_link\":\"https:\\/\\/www.fandangonow.com\\/details\\/movie\\/batman-ninja-2018\\/MMV959FD8795F940A7D199345CBDCA48B278\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/FandangoNow_500x200.png\",\"alt\":\"fandangonow.com\",\"title\":\"fandangonow.com\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"111769\",\"purchase_link\":\"https:\\/\\/www.walmart.com\\/ip\\/Batman-Ninja-Blu-ray\\/573605576\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/walmart_500x200.png\",\"alt\":\"walmart.com\",\"title\":\"walmart.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"111770\",\"purchase_link\":\"https:\\/\\/www.bestbuy.com\\/site\\/batman-ninja-includes-digital-copy-blu-ray-dvd-2018\\/6220791.p\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/best_buy_500x200.png\",\"alt\":\"bestbuy.com\",\"title\":\"bestbuy.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"111771\",\"purchase_link\":\"https:\\/\\/www.target.com\\/p\\/batman-ninja-blu-ray-dvd-digital\\/-\\/A-53446272\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/target.jpg\",\"alt\":\"Target\",\"title\":\"Target\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}}]",
+        "it_purchase_links": "",
+        "tv_game_purchase_links": "",
+        "banner_promo_image": "",
+        "brand_banner_image": "",
+        "collection_promo_image": "",
+        "collection_banner_image": ""
+      }
+    },
+    {
+      "node": {
+        "field_wb_site_selection": "home_entertainment",
+        "nid": "57051",
+        "type": "movies",
+        "field_title_thumbnail": {
+          "src": "https://assets.www.warnerbros.com/drupal-root/public/batman_forever_keyart.jpg",
+          "alt": "Batman Forever keyart "
+        },
+        "field_promo_image": "",
+        "field_display_title": "Batman Forever",
+        "field_custom_marketing_message": "Own it Today",
+        "body": "Jim Carrey stars as criminal genius, The Riddler, and Tommy Lee Jones plays Two-Face. Together, these criminal kingpins present a threat that only the Dynamic Duo--Batman (Val Kilmer) and Robin (Chris O'Donnell)--can stop. And Academy Award winner Nicole Kidman comes to Gotham as the alluring Dr. Chase Meridian, who may steal the heart of Batman Forever. Based upon Batman characters created by Bob Kane and published by DC Comics.\r\n\r\n\u00a0\r\n",
+        "field_release_date": "Original Theatrical Date: June 16, 1995",
+        "url": "batman-forever",
+        "field_release_date_1": "June 16, 1995",
+        "home_ent_purchase_links": "[{\"item_id\":\"33116\",\"purchase_link\":\"http:\\/\\/www.wbshop.com\\/product\\/code\\/1000119775.do?adid=wbpbuybatmanforever\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/WB_Shop_500x200.png\",\"alt\":\"wbshop.com\",\"title\":\"wbshop.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"65566\",\"purchase_link\":\"https:\\/\\/www.amazon.com\\/Batman-Forever-Val-Kilmer\\/dp\\/B0026QCHOI\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/PrimeVideo_500x200.png\",\"alt\":\"primevideo.com\",\"title\":\"primevideo.com\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"65571\",\"purchase_link\":\"https:\\/\\/geo.itunes.apple.com\\/us\\/movie\\/batman-forever\\/id658923417?mt=6\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/apple-tv-logo.jpg\",\"alt\":\"Apple TV\",\"title\":\"Apple TV\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"65576\",\"purchase_link\":\"https:\\/\\/www.amazon.com\\/Batman-Forever-UHD-BD-Blu-ray\\/dp\\/B07Q62JJC1\\/ref=sr_1_2?keywords=batman-forever\\/\\u0026qid=1555392110\\u0026s=gateway\\u0026sr=8-2\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/amazon_500x200.png\",\"alt\":\"amazon.com\",\"title\":\"amazon.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"107156\",\"purchase_link\":\"https:\\/\\/www.walmart.com\\/ip\\/Batman-Forever-4K-Ultra-HD-Blu-ray\\/140491816\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/walmart_500x200.png\",\"alt\":\"walmart.com\",\"title\":\"walmart.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"107161\",\"purchase_link\":\"https:\\/\\/www.bestbuy.com\\/site\\/batman-forever-includes-digital-copy-4k-ultra-hd-blu-ray-blu-ray-1995\\/6344903.p?skuId=6344903\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/best_buy_500x200.png\",\"alt\":\"bestbuy.com\",\"title\":\"bestbuy.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"108366\",\"purchase_link\":\"https:\\/\\/www.target.com\\/p\\/batman-forever-4k-uhd\\/-\\/A-54577311?ref=tgt_adv_XS000000\\u0026AFID=google_pla_df\\u0026fndsrc=tgtao\\u0026CPNG=PLA_Entertainment%2BShopping_Brand\\u0026adgroup=SC_Entertainment\\u0026LID=700000001170770pgs\\u0026network=g\\u0026device=c\\u0026location=9031195\\u0026ds_rl=1246978\\u0026gclid=CjwKEAjwlujnBRDl2teOp_veulQSJAC5bHgtdob6zcn7ZkRV7LkaIuBGD63dAcge5gLfP0GGrAt-ZxoCaWTw_wcB\\u0026gclsrc=aw.ds\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/target.jpg\",\"alt\":\"Target\",\"title\":\"Target\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"108381\",\"purchase_link\":\"https:\\/\\/play.google.com\\/store\\/movies\\/details?id=Kv-3fhiUmzY\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/GooglePlay_500x200.png\",\"alt\":\"Google Play\",\"title\":\"Google Play\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"108386\",\"purchase_link\":\"https:\\/\\/www.vudu.com\\/content\\/movies\\/details\\/Batman-Forever\\/9005\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/Vudu_500x200.png\",\"alt\":\"vudu.com\",\"title\":\"vudu.com\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}}]",
+        "it_purchase_links": "",
+        "tv_game_purchase_links": "",
+        "banner_promo_image": "",
+        "brand_banner_image": "",
+        "collection_promo_image": "",
+        "collection_banner_image": ""
+      }
+    },
+    {
+      "node": {
+        "field_wb_site_selection": "home_entertainment",
+        "nid": "57056",
+        "type": "movies",
+        "field_title_thumbnail": {
+          "src": "https://assets.www.warnerbros.com/drupal-root/public/movies/media/browser/BatmanRobin_2000x3000.jpg",
+          "alt": "Batman & Robin (1997) Key Art"
+        },
+        "field_promo_image": "",
+        "field_display_title": "Batman & Robin",
+        "field_custom_marketing_message": "Own it Today",
+        "body": "Superstars George Clooney and Arnold Schwarzenegger face off as the coolest--and the cruelest--villain to ever stalk Gotham City comes after its courageous caped crusaders, Batman & Robin. When the evil Mr. Freeze (Schwarzenegger) teams up with toxic Poison Ivy (Uma Thurman) to freeze Gotham City and destroy its residents, the end appears near for superheroes Batman (George Clooney) and Robin (Chris O'Donnell). But with the arrival of Batgirl (Alicia Silverstone), the dynamic duo becomes a...",
+        "field_release_date": "Original Theatrical Date: June 20, 1997",
+        "url": "batman-robin",
+        "field_release_date_1": "June 20, 1997",
+        "home_ent_purchase_links": "[{\"item_id\":\"33121\",\"purchase_link\":\"http:\\/\\/www.wbshop.com\\/product\\/code\\/1000119755.do?adid=wbpbuybatmanandrobin\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/WB_Shop_500x200.png\",\"alt\":\"wbshop.com\",\"title\":\"wbshop.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"65961\",\"purchase_link\":\"https:\\/\\/www.amazon.com\\/Batman-Robin-Arnold-Schwarzenegger\\/dp\\/B006IEQ1DC\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/PrimeVideo_500x200.png\",\"alt\":\"primevideo.com\",\"title\":\"primevideo.com\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"65966\",\"purchase_link\":\"https:\\/\\/geo.itunes.apple.com\\/us\\/movie\\/batman-robin\\/id577790444?mt=6\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/apple-tv-logo.jpg\",\"alt\":\"Apple TV\",\"title\":\"Apple TV\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"65971\",\"purchase_link\":\"https:\\/\\/play.google.com\\/store\\/movies\\/details\\/Batman_Robin?id=sCTfwi_LkcE\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/GooglePlay_500x200.png\",\"alt\":\"Google Play\",\"title\":\"Google Play\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"99101\",\"purchase_link\":\"https:\\/\\/www.vudu.com\\/content\\/movies\\/details\\/Batman-and-Robin\\/10506\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/Vudu_500x200.png\",\"alt\":\"vudu.com\",\"title\":\"vudu.com\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"107176\",\"purchase_link\":\"https:\\/\\/www.amazon.com\\/Batman-Robin-IV-UHD-Blu-ray\\/dp\\/B07QBVFKWY\\/ref=sr_1_1?keywords=batman%20robin%204k\\u0026qid=1555392551\\u0026s=gateway\\u0026sr=8-1\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/amazon_500x200.png\",\"alt\":\"amazon.com\",\"title\":\"amazon.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"107181\",\"purchase_link\":\"https:\\/\\/www.walmart.com\\/ip\\/Batman-Robin-4K-Ultra-HD-Blu-ray\\/780745649\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/walmart_500x200.png\",\"alt\":\"walmart.com\",\"title\":\"walmart.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"107186\",\"purchase_link\":\"https:\\/\\/www.bestbuy.com\\/site\\/batman-robin-includes-digital-copy-4k-ultra-hd-blu-ray-blu-ray-1997\\/6344899.p?skuId=6344899\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/best_buy_500x200.png\",\"alt\":\"bestbuy.com\",\"title\":\"bestbuy.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"108376\",\"purchase_link\":\"https:\\/\\/www.target.com\\/p\\/batman-robin-4k-uhd\\/-\\/A-54577316\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/target.jpg\",\"alt\":\"Target\",\"title\":\"Target\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}}]",
+        "it_purchase_links": "",
+        "tv_game_purchase_links": "",
+        "banner_promo_image": "",
+        "brand_banner_image": "",
+        "collection_promo_image": "",
+        "collection_banner_image": ""
+      }
+    },
+    {
+      "node": {
+        "field_wb_site_selection": "home_entertainment",
+        "nid": "57081",
+        "type": "movies",
+        "field_title_thumbnail": {
+          "src": "https://assets.www.warnerbros.com/drupal-root/public/batman_gotham_knight_keyart.jpg",
+          "alt": "Batman: Gotham Knight keyart "
+        },
+        "field_promo_image": "",
+        "field_display_title": "Batman: Gotham Knight",
+        "field_custom_marketing_message": "Available Now on Blu-ray, DVD and Digital",
+        "body": "From the producers of Batman Begins and The Dark Knight theatrical releases comes the groundbreaking interpretation of the Batman's transition from beginner to Dark Knight.\r\n\r\nSix interlocking stories reveal Bruce Wayne's earliest adventures as Batman and the steps he took to become the grim avenger of Gotham City.\r\n\r\nThese globe-spanning adventures pit Batman against the fearsome Scarecrow and two villains he's never faced before: the freakish Killer Croc and the unerring marksman known as...",
+        "field_release_date": "Original Theatrical Date: July 8, 2008",
+        "url": "batman-gotham-knight",
+        "field_release_date_1": "July 8, 2008",
+        "home_ent_purchase_links": "[{\"item_id\":\"33146\",\"purchase_link\":\"http:\\/\\/www.amazon.com\\/Batman-Gotham-Blu-ray-Corey-Burton\\/dp\\/B001614FX0\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/amazon_500x200.png\",\"alt\":\"amazon.com\",\"title\":\"amazon.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"66001\",\"purchase_link\":\"https:\\/\\/www.amazon.com\\/Batman-Gotham-Knight-Christian-Bale\\/dp\\/B004DK745M\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/PrimeVideo_500x200.png\",\"alt\":\"primevideo.com\",\"title\":\"primevideo.com\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"66006\",\"purchase_link\":\"https:\\/\\/geo.itunes.apple.com\\/us\\/movie\\/batman-gotham-knight\\/id282742858?mt=6\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/apple-tv-logo.jpg\",\"alt\":\"Apple TV\",\"title\":\"Apple TV\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"66011\",\"purchase_link\":\"http:\\/\\/www.wbshop.com\\/product\\/code\\/1000026555.do?adid=wbpbuybatgothknight\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/WB_Shop_500x200.png\",\"alt\":\"wbshop.com\",\"title\":\"wbshop.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}}]",
+        "it_purchase_links": "",
+        "tv_game_purchase_links": "",
+        "banner_promo_image": "",
+        "brand_banner_image": "",
+        "collection_promo_image": "",
+        "collection_banner_image": ""
+      }
+    },
+    {
+      "node": {
+        "field_wb_site_selection": "home_entertainment",
+        "nid": "79276",
+        "type": "movies",
+        "field_title_thumbnail": {
+          "src": "https://assets.www.warnerbros.com/drupal-root/public/batman_killing_joke_keyart.jpg",
+          "alt": "batman: the killing joke, based on one of the bestselling graphic novels of all-time, arrives on Digital HD July 26 and on Blu-ray/DVD August 2"
+        },
+        "field_promo_image": "",
+        "field_display_title": "Batman: The Killing Joke",
+        "field_custom_marketing_message": "Available Now on Digital HD / August 2 on Blu-ray and DVD",
+        "body": "Delve into the demented history of the Dark Knight's arch nemesis\u2014The Joker\u2014as he sets out to prove insanity is only a horrifying moment away for anyone in the latest DC Universe Original Movie, Batman: The Killing Joke.\r\n\r\nBased on one of the best-selling graphic novels of all time, this R-rated, feature-length animated film brings together some of the key creative team behind Batman: The Animated Series with executive producer Bruce Timm at the helm and Kevin Conroy and Mark Hamill returning...",
+        "field_release_date": "Original Theatrical Date: July 26, 2016",
+        "url": "batman-killing-joke",
+        "field_release_date_1": "July 26, 2016",
+        "home_ent_purchase_links": "[{\"item_id\":\"76566\",\"purchase_link\":\"https:\\/\\/www.amazon.com\\/Batman-Killing-Joke-Kevin-Conroy\\/dp\\/B01FIWBJ7W\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/PrimeVideo_500x200.png\",\"alt\":\"primevideo.com\",\"title\":\"primevideo.com\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"76571\",\"purchase_link\":\"https:\\/\\/geo.itunes.apple.com\\/us\\/movie\\/batman-the-killing-joke\\/id1111051505?mt=6\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/apple-tv-logo.jpg\",\"alt\":\"Apple TV\",\"title\":\"Apple TV\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"76576\",\"purchase_link\":\"https:\\/\\/www.amazon.com\\/Batman-Killing-Joke-Kevin-Conroy\\/dp\\/B0169PXH2C\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/amazon_500x200.png\",\"alt\":\"amazon.com\",\"title\":\"amazon.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"76581\",\"purchase_link\":\"http:\\/\\/www.wbshop.com\\/product\\/code\\/1000565438.do?adid=wbpbuykillingjoke\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/WB_Shop_500x200.png\",\"alt\":\"wbshop.com\",\"title\":\"wbshop.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}}]",
+        "it_purchase_links": "",
+        "tv_game_purchase_links": "",
+        "banner_promo_image": "",
+        "brand_banner_image": "",
+        "collection_promo_image": "",
+        "collection_banner_image": ""
+      }
+    },
+    {
+      "node": {
+        "field_wb_site_selection": "home_entertainment",
+        "nid": "75556",
+        "type": "movies",
+        "field_title_thumbnail": {
+          "src": "https://assets.www.warnerbros.com/drupal-root/public/batman_bad_blood_keyart.jpg",
+          "alt": "batman bad blood poster"
+        },
+        "field_promo_image": "",
+        "field_display_title": "Batman: Bad Blood",
+        "field_custom_marketing_message": "Available Now on Blu-ray, DVD and Digital",
+        "body": "When Batman goes missing, it will take the entire Bat \u201cfamily\u201d\u2014including new additions Batwoman and Batwing\u2014to keep the peace in Gotham City and unravel the mystery behind the Dark Knight\u2019s disappearance in Batman: Bad Blood.\r\n\r\nDuring their investigation into Bruce Wayne\u2019s disappearance, even Alfred goes undercover to assist, and soon they all become involved with the mysterious Batwoman, who may have been the last to see Batman alive. But as the \u201cBat Family\u201d continues to track him down, they...",
+        "field_release_date": "Original Theatrical Date: January 19, 2016",
+        "url": "batman-bad-blood",
+        "field_release_date_1": "January 19, 2016",
+        "home_ent_purchase_links": "[{\"item_id\":\"68846\",\"purchase_link\":\"http:\\/\\/www.amazon.com\\/Batman-Blood-Blu-ray-Digital-UltraViolet\\/dp\\/B0169PXG8W\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/amazon_500x200.png\",\"alt\":\"amazon.com\",\"title\":\"amazon.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"69996\",\"purchase_link\":\"https:\\/\\/geo.itunes.apple.com\\/us\\/movie\\/batman-bad-blood\\/id1066649571?mt=6\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/apple-tv-logo.jpg\",\"alt\":\"Apple TV\",\"title\":\"Apple TV\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"70001\",\"purchase_link\":\"http:\\/\\/www.wbshop.com\\/product\\/code\\/1000516208.do?adid=wbpbuybatbadblood\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/WB_Shop_500x200.png\",\"alt\":\"wbshop.com\",\"title\":\"wbshop.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"70776\",\"purchase_link\":\"http:\\/\\/www.amazon.com\\/Batman-Bad-Blood-Jason-OMara\\/dp\\/B01AMUTGZW\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/PrimeVideo_500x200.png\",\"alt\":\"primevideo.com\",\"title\":\"primevideo.com\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}}]",
+        "it_purchase_links": "",
+        "tv_game_purchase_links": "",
+        "banner_promo_image": "",
+        "brand_banner_image": "",
+        "collection_promo_image": "",
+        "collection_banner_image": ""
+      }
+    },
+    {
+      "node": {
+        "field_wb_site_selection": "home_entertainment",
+        "nid": "84806",
+        "type": "movies",
+        "field_title_thumbnail": {
+          "src": "https://assets.www.warnerbros.com/drupal-root/public/movies/media/browser/batman_mask_phantasm_keyart.jpg",
+          "alt": "batman: mask of the phantasm poster"
+        },
+        "field_promo_image": "",
+        "field_display_title": "Batman: Mask of the Phantasm",
+        "field_custom_marketing_message": "Own it Today",
+        "body": "Based on the acclaimed Batman: The Animated Series and released theatrically Christmas 1993, Batman: Mask of the Phantasm has not only been ranked by Time magazine as one of the 10 best superhero movies ever, but is also argued amongst fans as being the best Batman movie ever as well.\r\n\r\nWhen the city's most feared gangsters are systematically eliminated, the Caped Crusader is blamed. But prowling the Gotham night is a shadowy new villain, the Phantasm, a sinister figure with some link to...",
+        "field_release_date": "Original Theatrical Date: December 25, 1993",
+        "url": "batman-mask-phantasm",
+        "field_release_date_1": "December 25, 1993",
+        "home_ent_purchase_links": "[{\"item_id\":\"93096\",\"purchase_link\":\"https:\\/\\/www.amazon.com\\/Batman-Mask-Phantasm-Kevin-Conroy\\/dp\\/B001P5QC1U\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/PrimeVideo_500x200.png\",\"alt\":\"primevideo.com\",\"title\":\"primevideo.com\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"93101\",\"purchase_link\":\"https:\\/\\/play.google.com\\/store\\/movies\\/details\\/Batman_Mask_of_the_Phantasm?id=PmkWVOiVjxY\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/GooglePlay_500x200.png\",\"alt\":\"Google Play\",\"title\":\"Google Play\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"93106\",\"purchase_link\":\"https:\\/\\/www.vudu.com\\/movies\\/#!content\\/9006\\/Batman-Mask-of-the-Phantasm\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/Vudu_500x200.png\",\"alt\":\"vudu.com\",\"title\":\"vudu.com\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"93111\",\"purchase_link\":\"https:\\/\\/www.amazon.com\\/Batman-Kevin-Conroy-Delany-Bochner\\/dp\\/B0731YSYS2\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/amazon_500x200.png\",\"alt\":\"amazon.com\",\"title\":\"amazon.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"93116\",\"purchase_link\":\"http:\\/\\/www.wbshop.com\\/product\\/code\\/1000639611.do?adid=wbpbuybatmanphantasm\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/WB_Shop_500x200.png\",\"alt\":\"wbshop.com\",\"title\":\"wbshop.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}}]",
+        "it_purchase_links": "",
+        "tv_game_purchase_links": "",
+        "banner_promo_image": "",
+        "brand_banner_image": "",
+        "collection_promo_image": "",
+        "collection_banner_image": ""
+      }
+    },
+    {
+      "node": {
+        "field_wb_site_selection": "home_entertainment",
+        "nid": "85706",
+        "type": "movies",
+        "field_title_thumbnail": {
+          "src": "https://assets.www.warnerbros.com/drupal-root/public/movies/media/browser/batman_twoface_keyart.jpg",
+          "alt": "batman vs. two-face poster"
+        },
+        "field_promo_image": "",
+        "field_display_title": "Batman vs. Two-Face",
+        "field_custom_marketing_message": "Own it Today",
+        "body": "Holy coin flipping conundrums, Batman! When a device meant to remove the evil from the criminal mind goes haywire, Gotham City\u2019s D.A., Harvey Dent is transformed into the sinister split personality\u2014Two-Face! Add in the crime creating chaos of Joker, Penguin, Riddler and the Dynamic Duo may be overwhelmed and outmatched. Can a helping claw from the coy Catwoman unravel this confounded case and foil Two-Face\u2019s maniacal endgame?\r\n\r\nStarring the legendary voice talents of William Shatner as Two-...",
+        "field_release_date": "Original Theatrical Date: September 18, 2017",
+        "url": "batman-vs-two-face",
+        "field_release_date_1": "September 18, 2017",
+        "home_ent_purchase_links": "[{\"item_id\":\"94581\",\"purchase_link\":\"https:\\/\\/www.amazon.com\\/Batman-vs-Two-Face-Adam-West\\/dp\\/B074P8WW33\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/PrimeVideo_500x200.png\",\"alt\":\"primevideo.com\",\"title\":\"primevideo.com\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"94586\",\"purchase_link\":\"https:\\/\\/play.google.com\\/store\\/movies\\/details\\/Batman_vs_Two_Face?id=xI5Q6BLdBLQ\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/GooglePlay_500x200.png\",\"alt\":\"Google Play\",\"title\":\"Google Play\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"94591\",\"purchase_link\":\"https:\\/\\/geo.itunes.apple.com\\/us\\/movie\\/batman-vs-two-face\\/id1264977100?mt=6\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/apple-tv-logo.jpg\",\"alt\":\"Apple TV\",\"title\":\"Apple TV\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"94596\",\"purchase_link\":\"https:\\/\\/www.amazon.com\\/Batman-vs-Two-Face-BD-Blu-ray\\/dp\\/B0746XNZH3\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/amazon_500x200.png\",\"alt\":\"amazon.com\",\"title\":\"amazon.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"94601\",\"purchase_link\":\"http:\\/\\/www.wbshop.com\\/product\\/code\\/1000635925.do?adid=wbpbuybatmantwoface\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/WB_Shop_500x200.png\",\"alt\":\"wbshop.com\",\"title\":\"wbshop.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"110083\",\"purchase_link\":\"https:\\/\\/www.vudu.com\\/content\\/movies\\/details\\/Batman-vs-Two-Face\\/897788\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/Vudu_500x200.png\",\"alt\":\"vudu.com\",\"title\":\"vudu.com\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"110084\",\"purchase_link\":\"https:\\/\\/moviesanywhere.com\\/movie\\/batman-vs-two-face\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/MoviesAnywhere_500x200.png\",\"alt\":\"moviesanywhere.com\",\"title\":\"moviesanywhere.com\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"110085\",\"purchase_link\":\"https:\\/\\/www.microsoft.com\\/en-us\\/p\\/batman-vs-two-face\\/8d6kgwxfhn97\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/Microsoft_500x200.png\",\"alt\":\"Microsoft Buylink\",\"title\":\"Microsoft Buylink\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"110086\",\"purchase_link\":\"https:\\/\\/www.fandangonow.com\\/details\\/movie\\/batman-vs-two-face-2017\\/MMV188B95578ABFB6C1D1CF95FAD2A88953D\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/FandangoNow_500x200.png\",\"alt\":\"fandangonow.com\",\"title\":\"fandangonow.com\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"110087\",\"purchase_link\":\"https:\\/\\/www.walmart.com\\/ip\\/DCU-Batman-vs-Two-Face-Blu-ray\\/136369652\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/walmart_500x200.png\",\"alt\":\"walmart.com\",\"title\":\"walmart.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"110088\",\"purchase_link\":\"https:\\/\\/www.bestbuy.com\\/site\\/batman-vs-two-face-blu-ray-2017\\/6116700.p\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/best_buy_500x200.png\",\"alt\":\"bestbuy.com\",\"title\":\"bestbuy.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"110089\",\"purchase_link\":\"https:\\/\\/www.target.com\\/p\\/batman-vs-two-face-blu-ray-dvd-digital\\/-\\/A-52832958\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/target.jpg\",\"alt\":\"Target\",\"title\":\"Target\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}}]",
+        "it_purchase_links": "",
+        "tv_game_purchase_links": "",
+        "banner_promo_image": "",
+        "brand_banner_image": "",
+        "collection_promo_image": "",
+        "collection_banner_image": ""
+      }
+    },
+    {
+      "node": {
+        "field_wb_site_selection": "home_entertainment",
+        "nid": "62476",
+        "type": "movies",
+        "field_title_thumbnail": {
+          "src": "https://assets.www.warnerbros.com/drupal-root/public/batman_motion_picture_anthology_keyart.jpg",
+          "alt": "Batman: the Motion Picture Anthology keyart "
+        },
+        "field_promo_image": "",
+        "field_display_title": "Batman: the Motion Picture Anthology",
+        "field_custom_marketing_message": "Available Now on Blu-ray",
+        "body": "BATMAN - Batman (Michael Keaton) vs. The Joker (Jack Nicholson) in the amazing first extravaganza! With Kim Basinger.\r\n\r\nBATMAN RETURNS - The Bat (Michael Keaton), the Cat (Michelle Pfeiffer), the Penguin (Danny DeVito). And Christopher Walken, too!\r\n\r\nBATMAN FOREVER - Riddle me this: The Dark Knight (Val Kilmer) bat-battles Two-Face (Tommy Lee Jones) and the Riddler (Jim Carrey). With Nicole Kidman, Chris O'Donnell.\r\n\r\nBATMAN & ROBIN - Will Mr. Freeze (Arnold Schwarzenegger) put the world...",
+        "field_release_date": "Original Theatrical Date: June 23, 1989",
+        "url": "batman-motion-picture-anthology",
+        "field_release_date_1": "June 23, 1989",
+        "home_ent_purchase_links": "[{\"item_id\":\"38871\",\"purchase_link\":\"http:\\/\\/www.wbshop.com\\/product\\/code\\/1000040924.do?adid=wbpbuybatmananthology\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/WB_Shop_500x200.png\",\"alt\":\"wbshop.com\",\"title\":\"wbshop.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}}]",
+        "it_purchase_links": "",
+        "tv_game_purchase_links": "",
+        "banner_promo_image": "",
+        "brand_banner_image": "",
+        "collection_promo_image": "",
+        "collection_banner_image": ""
+      }
+    },
+    {
+      "node": {
+        "field_wb_site_selection": "home_entertainment",
+        "nid": "84576",
+        "type": "movies",
+        "field_title_thumbnail": {
+          "src": "https://assets.www.warnerbros.com/drupal-root/public/movies/media/browser/batman_harleyquinn_keyart.jpg",
+          "alt": "batman and harley quinn poster"
+        },
+        "field_promo_image": "",
+        "field_display_title": "Batman and Harley Quinn",
+        "field_custom_marketing_message": "Available Now on 4k UHD Blu-ray, Blu-ray, DVD, Digital UHD and Digital HD",
+        "body": "A looming global catastrophe forces Batman and Nightwing to partner with an unlikely hero in Batman and Harley Quinn. Poison Ivy and Jason Woodrue (a.k.a. The Floronic Man) embark on an ecological quest to save the planet\u2014and, unfortunately, eliminate most of humankind along the way.\r\n\r\nTo save humanity, Batman and Nightwing are forced to enlist Harley Quinn to catch Poison Ivy, Harley's BFF and frequent partner-in-crime. But Batman's patience is put to the test by the unpredictable and...",
+        "field_release_date": "Original Theatrical Date: June 16, 2017",
+        "url": "batman-and-harley-quinn",
+        "field_release_date_1": "June 16, 2017",
+        "home_ent_purchase_links": "[{\"item_id\":\"92671\",\"purchase_link\":\"https:\\/\\/www.amazon.com\\/DCU-Batman-Harley-Kevin-Conroy\\/dp\\/B072PV563P\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/PrimeVideo_500x200.png\",\"alt\":\"primevideo.com\",\"title\":\"primevideo.com\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"92676\",\"purchase_link\":\"https:\\/\\/play.google.com\\/store\\/movies\\/details\\/DCU_Batman_and_Harley_Quinn?id=H1X5OwU8n5g\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/GooglePlay_500x200.png\",\"alt\":\"Google Play\",\"title\":\"Google Play\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"92681\",\"purchase_link\":\"https:\\/\\/geo.itunes.apple.com\\/us\\/movie\\/dcu-batman-and-harley-quinn\\/id1237009749?mt=6\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/apple-tv-logo.jpg\",\"alt\":\"Apple TV\",\"title\":\"Apple TV\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"92686\",\"purchase_link\":\"https:\\/\\/www.amazon.com\\/Batman-Harley-Quinn-Blu-ray-Digital\\/dp\\/B071FQB63G\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/amazon_500x200.png\",\"alt\":\"amazon.com\",\"title\":\"amazon.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"93411\",\"purchase_link\":\"http:\\/\\/www.wbshop.com\\/product\\/code\\/1000591407.do?adid=wbpbuybatmanharley\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/WB_Shop_500x200.png\",\"alt\":\"wbshop.com\",\"title\":\"wbshop.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"93431\",\"purchase_link\":\"https:\\/\\/www.vudu.com\\/movies\\/#!content\\/861680\\/DCU-Batman-and-Harley-Quinn\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/Vudu_500x200.png\",\"alt\":\"vudu.com\",\"title\":\"vudu.com\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}}]",
+        "it_purchase_links": "",
+        "tv_game_purchase_links": "",
+        "banner_promo_image": "",
+        "brand_banner_image": "",
+        "collection_promo_image": "",
+        "collection_banner_image": ""
+      }
+    },
+    {
+      "node": {
+        "field_wb_site_selection": "home_entertainment",
+        "nid": "57066",
+        "type": "movies",
+        "field_title_thumbnail": {
+          "src": "https://assets.www.warnerbros.com/drupal-root/public/movies/media/browser/batman_begins_key_art.jpeg",
+          "alt": "Batman Begins - Key Art"
+        },
+        "field_promo_image": "",
+        "field_display_title": "Batman Begins",
+        "field_custom_marketing_message": "Own it Today",
+        "body": "As a young boy, Bruce Wayne watched in horror as his millionaire parents were slain in front of him--a trauma that leads him to become obsessed with revenge. But the opportunity to avenge his parents' deaths is cruelly taken away from him by fate. Fleeing to the East, where he seeks counsel with the dangerous but honorable ninja cult leader known as Ra's Al-Ghul, Bruce returns to his now decaying Gotham City, which is overrun by organized crime and other dangerous individuals manipulating the...",
+        "field_release_date": "Original Theatrical Date: June 15, 2005",
+        "url": "batman-begins",
+        "field_release_date_1": "June 15, 2005",
+        "home_ent_purchase_links": "[{\"item_id\":\"33131\",\"purchase_link\":\"http:\\/\\/www.wbshop.com\\/product\\/code\\/1000648140.do?adid=wbpbuybatmanbegins\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/WB_Shop_500x200.png\",\"alt\":\"wbshop.com\",\"title\":\"wbshop.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"65976\",\"purchase_link\":\"https:\\/\\/www.amazon.com\\/Batman-Begins-Christian-Bale\\/dp\\/B002SS8S7E\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/PrimeVideo_500x200.png\",\"alt\":\"primevideo.com\",\"title\":\"primevideo.com\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"65981\",\"purchase_link\":\"https:\\/\\/geo.itunes.apple.com\\/us\\/movie\\/batman-begins\\/id271469254?mt=6\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/apple-tv-logo.jpg\",\"alt\":\"Apple TV\",\"title\":\"Apple TV\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"65986\",\"purchase_link\":\"https:\\/\\/www.amazon.com\\/Batman-Begins-Ultra-HD-Blu-ray\\/dp\\/B0771GZLZ9\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/amazon_500x200.png\",\"alt\":\"amazon.com\",\"title\":\"amazon.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"93281\",\"purchase_link\":\"https:\\/\\/play.google.com\\/store\\/movies\\/details\\/Batman_Begins?id=MzygB9B1SbA\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/GooglePlay_500x200.png\",\"alt\":\"Google Play\",\"title\":\"Google Play\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"93286\",\"purchase_link\":\"https:\\/\\/www.vudu.com\\/movies\\/#!content\\/10681\\/Batman-Begins\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/Vudu_500x200.png\",\"alt\":\"vudu.com\",\"title\":\"vudu.com\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"111760\",\"purchase_link\":\"https:\\/\\/moviesanywhere.com\\/movie\\/batman-begins\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/MoviesAnywhere_500x200.png\",\"alt\":\"moviesanywhere.com\",\"title\":\"moviesanywhere.com\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"111761\",\"purchase_link\":\"https:\\/\\/www.microsoft.com\\/en-us\\/p\\/batman-begins\\/8d6kgwzl52q1\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/Microsoft_500x200.png\",\"alt\":\"Microsoft Buylink\",\"title\":\"Microsoft Buylink\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"111762\",\"purchase_link\":\"https:\\/\\/www.fandangonow.com\\/details\\/movie\\/batman-begins-2005\\/1MVc21164d882afea2784a376bc6831f77d\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/FandangoNow_500x200.png\",\"alt\":\"fandangonow.com\",\"title\":\"fandangonow.com\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"111763\",\"purchase_link\":\"https:\\/\\/www.walmart.com\\/ip\\/Batman-Begins-4K-Ultra-HD\\/883618148\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/walmart_500x200.png\",\"alt\":\"walmart.com\",\"title\":\"walmart.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"111764\",\"purchase_link\":\"https:\\/\\/www.bestbuy.com\\/site\\/batman-begins-4k-ultra-hd-blu-ray-blu-ray-2005\\/6111518.p\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/best_buy_500x200.png\",\"alt\":\"bestbuy.com\",\"title\":\"bestbuy.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"111765\",\"purchase_link\":\"https:\\/\\/www.target.com\\/p\\/batman-begins-blu-ray\\/-\\/A-15302166\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/target.jpg\",\"alt\":\"Target\",\"title\":\"Target\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}}]",
+        "it_purchase_links": "",
+        "tv_game_purchase_links": "",
+        "banner_promo_image": "",
+        "brand_banner_image": "",
+        "collection_promo_image": "",
+        "collection_banner_image": ""
+      }
+    },
+    {
+      "node": {
+        "field_wb_site_selection": "home_entertainment",
+        "nid": "87456",
+        "type": "movies",
+        "field_title_thumbnail": {
+          "src": "https://assets.www.warnerbros.com/drupal-root/public/movies/media/browser/batman_mrfreeze_subzero_keyart.jpg",
+          "alt": "batman & mr. freeze: subzero poster"
+        },
+        "field_promo_image": "",
+        "field_display_title": "Batman & Mr. Freeze: SubZero",
+        "field_custom_marketing_message": "Available Now on Blu-ray, DVD and Digital",
+        "body": "Batman faces his coolest case ever when Mr. Freeze returns to Gotham City and kidnaps Batgirl. While unraveling the mystery of Batgirl's disappearance, Batman and Robin discover that she is part of Mr. Freeze's frigid plan to save his dying wife\u2014no matter what the cost.\r\n\r\nWith time running out, Batman and Robin must find Gotham's most cold-blooded villain and prevent him from putting Batgirl \"on ice\" forever.\r\n",
+        "field_release_date": "Original Theatrical Date: March 17, 1998",
+        "url": "batman-mr-freeze-subzero",
+        "field_release_date_1": "March 17, 1998",
+        "home_ent_purchase_links": "[{\"item_id\":\"99106\",\"purchase_link\":\"https:\\/\\/www.amazon.com\\/Batman-Mr-Freeze-Kevin-Conroy\\/dp\\/B001AIY5BQ\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/PrimeVideo_500x200.png\",\"alt\":\"primevideo.com\",\"title\":\"primevideo.com\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"99111\",\"purchase_link\":\"https:\\/\\/play.google.com\\/store\\/movies\\/details\\/Batman_Mr_Freeze_Sub_Zero?id=OHgrwNk2sWg\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/GooglePlay_500x200.png\",\"alt\":\"Google Play\",\"title\":\"Google Play\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"99116\",\"purchase_link\":\"https:\\/\\/geo.itunes.apple.com\\/us\\/movie\\/batman-and-mr-freeze-sub-zero\\/id279599270?mt=6\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/apple-tv-logo.jpg\",\"alt\":\"Apple TV\",\"title\":\"Apple TV\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"99121\",\"purchase_link\":\"https:\\/\\/www.vudu.com\\/content\\/movies\\/details\\/Batman-Mr-Freeze-Subzero\\/10518\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/Vudu_500x200.png\",\"alt\":\"vudu.com\",\"title\":\"vudu.com\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"99126\",\"purchase_link\":\"https:\\/\\/www.amazon.com\\/Batman-Mr-Freeze-SubZero-Blu-ray\\/dp\\/B079Z1QXD9\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/amazon_500x200.png\",\"alt\":\"amazon.com\",\"title\":\"amazon.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"99131\",\"purchase_link\":\"https:\\/\\/www.wbshop.com\\/products\\/batman-mr-freeze-subzero-bd?ref=PWBCOM180301\\u0026utm_source=warnerbroscom\\u0026utm_medium=referral\\u0026utm_campaign=PWBCOM180301\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/WB_Shop_500x200.png\",\"alt\":\"wbshop.com\",\"title\":\"wbshop.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}}]",
+        "it_purchase_links": "",
+        "tv_game_purchase_links": "",
+        "banner_promo_image": "",
+        "brand_banner_image": "",
+        "collection_promo_image": "",
+        "collection_banner_image": ""
+      }
+    },
+    {
+      "node": {
+        "field_wb_site_selection": "home_entertainment",
+        "nid": "57111",
+        "type": "movies",
+        "field_title_thumbnail": {
+          "src": "https://assets.www.warnerbros.com/drupal-root/public/batman_under_the_red_hood_keyart.jpg",
+          "alt": "Batman: Under the Red Hood keyart "
+        },
+        "field_promo_image": "",
+        "field_display_title": "Batman: Under the Red Hood",
+        "field_custom_marketing_message": "Available Now on Blu-ray, DVD and Digital",
+        "body": "Batman faces his ultimate challenge as the mysterious Red Hood takes Gotham City by firestorm.\r\n\r\nOne part vigilante, one part criminal kingpin, Red Hood begins cleaning up Gotham with the efficiency of Batman, but without following the same ethical code.\r\n\r\nKilling is an option. And when the Joker falls in the balance between the two, hard truths are revealed and old wounds are reopened.\r\n",
+        "field_release_date": "Original Theatrical Date: July 27, 2010",
+        "url": "batman-under-red-hood",
+        "field_release_date_1": "July 27, 2010",
+        "home_ent_purchase_links": "[{\"item_id\":\"33171\",\"purchase_link\":\"http:\\/\\/www.wbshop.com\\/product\\/code\\/1000115997.do?adid=wbpbuyBatRedHood\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/WB_Shop_500x200.png\",\"alt\":\"wbshop.com\",\"title\":\"wbshop.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"50871\",\"purchase_link\":\"http:\\/\\/www.amazon.com\\/Batman-Under-Hood-Bruce-Greenwood\\/dp\\/B003QKR9UK\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/PrimeVideo_500x200.png\",\"alt\":\"primevideo.com\",\"title\":\"primevideo.com\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"50876\",\"purchase_link\":\"https:\\/\\/geo.itunes.apple.com\\/us\\/movie\\/batman-under-the-red-hood\\/id380839815?mt=6\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/apple-tv-logo.jpg\",\"alt\":\"Apple TV\",\"title\":\"Apple TV\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"50881\",\"purchase_link\":\"http:\\/\\/www.amazon.com\\/Batman-Under-Red-Hood-Single-Disc\\/dp\\/B003ITZBVS\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/amazon_500x200.png\",\"alt\":\"amazon.com\",\"title\":\"amazon.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}}]",
+        "it_purchase_links": "",
+        "tv_game_purchase_links": "",
+        "banner_promo_image": "",
+        "brand_banner_image": "",
+        "collection_promo_image": "",
+        "collection_banner_image": ""
+      }
+    },
+    {
+      "node": {
+        "field_wb_site_selection": "home_entertainment",
+        "nid": "81451",
+        "type": "movies",
+        "field_title_thumbnail": {
+          "src": "https://assets.www.warnerbros.com/drupal-root/public/movies/media/browser/batman_return_caped_crusaders_keyart.jpg",
+          "alt": "batman return of the caped crusaders poster"
+        },
+        "field_promo_image": "",
+        "field_display_title": "Batman: Return of the Caped Crusaders",
+        "field_custom_marketing_message": "Available Now on Blu-ray, DVD and Digital",
+        "body": "Warner Bros. Animation and DC Entertainment take Batman fans on a journey into the iconic past with the full-length animated Batman feature film\u2014Batman: Return of the Caped Crusaders. The film features the vocal performances of Adam West (Batman), Burt Ward (Robin) and Julie Newmar (Catwoman).\r\n\r\nIt\u2019s back to the 1960s as Batman and Robin spring into action when Gotham City is threatened by a quartet of Batman\u2019s most fiendish foes\u2014Penguin, The Joker, Riddler and Catwoman. The four Super-...",
+        "field_release_date": "Original Theatrical Date: October 7, 2016",
+        "url": "batman-return-caped-crusaders",
+        "field_release_date_1": "October 7, 2016",
+        "home_ent_purchase_links": "[{\"item_id\":\"88021\",\"purchase_link\":\"https:\\/\\/www.amazon.com\\/Batman-Return-Crusaders-Adam-West\\/dp\\/B01M0SNRLT\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/PrimeVideo_500x200.png\",\"alt\":\"primevideo.com\",\"title\":\"primevideo.com\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"88026\",\"purchase_link\":\"https:\\/\\/geo.itunes.apple.com\\/us\\/movie\\/batman-return-caped-crusaders\\/id1152525051?mt=6\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/apple-tv-logo.jpg\",\"alt\":\"Apple TV\",\"title\":\"Apple TV\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"88031\",\"purchase_link\":\"https:\\/\\/www.amazon.com\\/Batman-Return-Caped-Crusaders-Blu-ray\\/dp\\/B01KYRX23U\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/amazon_500x200.png\",\"alt\":\"amazon.com\",\"title\":\"amazon.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"88036\",\"purchase_link\":\"http:\\/\\/www.wbshop.com\\/product\\/code\\/1000588015.do?adid=wbpbuybatmancaped\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/WB_Shop_500x200.png\",\"alt\":\"wbshop.com\",\"title\":\"wbshop.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}}]",
+        "it_purchase_links": "",
+        "tv_game_purchase_links": "",
+        "banner_promo_image": "",
+        "brand_banner_image": "",
+        "collection_promo_image": "",
+        "collection_banner_image": ""
+      }
+    },
+    {
+      "node": {
+        "field_wb_site_selection": "home_entertainment",
+        "nid": "70051",
+        "type": "movies",
+        "field_title_thumbnail": {
+          "src": "https://assets.www.warnerbros.com/drupal-root/public/batman_vs_robin_keyart.jpg",
+          "alt": "Batman vs Robin keyart "
+        },
+        "field_promo_image": "",
+        "field_display_title": "Batman vs. Robin",
+        "field_custom_marketing_message": "Own it Today",
+        "body": "When Batman finds himself under attack by his own son, Damian (Robin), he at first suspects the hand of Ra's Al Ghul behind the treachery, but then comes to see that the boy may be controlled by a mysterious and murderous society known as the Court of Owls.\r\n\r\nWitness the epic battle that will shape a destiny and forge the future of Robin forever.\r\n",
+        "field_release_date": "Original Theatrical Date: April 14, 2015",
+        "url": "batman-vs-robin",
+        "field_release_date_1": "April 14, 2015",
+        "home_ent_purchase_links": "[{\"item_id\":\"46131\",\"purchase_link\":\"http:\\/\\/www.amazon.com\\/gp\\/product\\/B00SIHIFY0\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/amazon_500x200.png\",\"alt\":\"amazon.com\",\"title\":\"amazon.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"46136\",\"purchase_link\":\"http:\\/\\/www.wbshop.com\\/product\\/code\\/1000452059.do?adid=wbpbuybatmanvsrobin\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/WB_Shop_500x200.png\",\"alt\":\"wbshop.com\",\"title\":\"wbshop.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"46141\",\"purchase_link\":\"http:\\/\\/www.amazon.com\\/dp\\/B001UAHMSW\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/PrimeVideo_500x200.png\",\"alt\":\"primevideo.com\",\"title\":\"primevideo.com\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"47716\",\"purchase_link\":\"https:\\/\\/geo.itunes.apple.com\\/us\\/movie\\/ballistic-ecks-vs.-sever\\/id327850996?\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/apple-tv-logo.jpg\",\"alt\":\"Apple TV\",\"title\":\"Apple TV\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}}]",
+        "it_purchase_links": "",
+        "tv_game_purchase_links": "",
+        "banner_promo_image": "",
+        "brand_banner_image": "",
+        "collection_promo_image": "",
+        "collection_banner_image": ""
+      }
+    },
+    {
+      "node": {
+        "field_wb_site_selection": "home_entertainment",
+        "nid": "86376",
+        "type": "movies",
+        "field_title_thumbnail": {
+          "src": "https://assets.www.warnerbros.com/drupal-root/public/movies/media/browser/batman_gotham_by_gaslight_keyart.jpg",
+          "alt": "batman: gotham by gaslight poster"
+        },
+        "field_promo_image": "",
+        "field_display_title": "Batman: Gotham By Gaslight",
+        "field_custom_marketing_message": "Available Now on 4k UHD Blu-ray, Blu-ray, DVD and Digital UHD",
+        "body": "It's Batman vs. Jack the Ripper in an Elseworld's adventure that imagines the Dark Knight over a hundred years ago in a turn-of-the-century Gotham.\r\n\r\nGotham City, at the turn of the century, is experiencing a golden era of discovery and industry as showcased by affluent businessman Bruce Wayne's World Fair. Down in the darkest alleys, there is a killer on the loose. Preying on the city's women, this killer is as precise as he is cruel. As Police Commissioner James Gordon tries to calm the...",
+        "field_release_date": "Original Theatrical Date: November 17, 2017",
+        "url": "batman-gotham-gaslight",
+        "field_release_date_1": "November 17, 2017",
+        "home_ent_purchase_links": "[{\"item_id\":\"96511\",\"purchase_link\":\"https:\\/\\/www.amazon.com\\/Batman-Gotham-Gaslight-Bruce-Greenwood\\/dp\\/B075SN3HKW\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/PrimeVideo_500x200.png\",\"alt\":\"primevideo.com\",\"title\":\"primevideo.com\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"96516\",\"purchase_link\":\"https:\\/\\/play.google.com\\/store\\/movies\\/details\\/Batman_Gotham_By_Gaslight?id=4SW0v2G57dc\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/GooglePlay_500x200.png\",\"alt\":\"Google Play\",\"title\":\"Google Play\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"96521\",\"purchase_link\":\"https:\\/\\/geo.itunes.apple.com\\/us\\/movie\\/batman-gotham-by-gaslight\\/id1282878586?mt=6\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/apple-tv-logo.jpg\",\"alt\":\"Apple TV\",\"title\":\"Apple TV\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}},{\"item_id\":\"96526\",\"purchase_link\":\"https:\\/\\/www.amazon.com\\/dp\\/B077HKSWN3\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/amazon_500x200.png\",\"alt\":\"amazon.com\",\"title\":\"amazon.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"96726\",\"purchase_link\":\"http:\\/\\/www.wbshop.com\\/product\\/code\\/1000694065.do?adid=wbpbuybatmangaslight\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/WB_Shop_500x200.png\",\"alt\":\"wbshop.com\",\"title\":\"wbshop.com\"},\"field_purchase_link_category\":{\"name\":\"Buy on Disc\",\"tid\":\"3111\"}}},{\"item_id\":\"97056\",\"purchase_link\":\"https:\\/\\/www.vudu.com\\/movies\\/#!content\\/921321\\/Batman-Gotham-by-Gaslight\",\"field_vendor\":{\"field_vendor_logo\":{\"uri\":\"public:\\/\\/Vudu_500x200.png\",\"alt\":\"vudu.com\",\"title\":\"vudu.com\"},\"field_purchase_link_category\":{\"name\":\"Buy or Rent Online\",\"tid\":\"3121\"}}}]",
+        "it_purchase_links": "",
+        "tv_game_purchase_links": "",
+        "banner_promo_image": "",
+        "brand_banner_image": "",
+        "collection_promo_image": "",
+        "collection_banner_image": ""
+      }
+    }
+  ]
+}
